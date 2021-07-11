@@ -1,0 +1,15 @@
+# Equation
+## 目录
+    1. script01
+        .cpp main
+    2. script02
+        .cpp 质数表实现
+        .dat 质数表
+    3. script03
+        .cpp 用户端
+    4. script04
+        .hpp 分式与根式
+    5. script05
+        .cpp 解析
+    6. script06
+        .hpp script04中的数组操作
